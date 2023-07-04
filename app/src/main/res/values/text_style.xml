@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="message_text_style" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/eerie_black</item>
+        <item name="android:textSize">@dimen/dimen_14sp</item>
+        <item name="android:fontFamily">@font/myriad_geo</item>
+    </style>
+
+    <style name="text_input_style" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">?attr/color</item>
+        <item name="android:scrollbarThumbVertical">@drawable/scrollbar_scroll</item>
+        <item name="android:scrollbarTrackVertical">@drawable/scrollbar_thing</item>
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:textColorHint">@color/grey_200</item>
+        <item name="android:fontFamily">@font/myriad_geo</item>
+    </style>
+
+    <style name="date_text_style" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/grey_200</item>
+        <item name="android:textSize">@dimen/dimen_8sp</item>
+        <item name="android:fontFamily">@font/myriad_geo</item>
+    </style>
+
+</resources>

@@ -12,5 +12,7 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <item name="background">@color/dark_purple</item>
+        <item name="color">@color/darker_white</item>
     </style>
 </resources>
